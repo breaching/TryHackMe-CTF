@@ -37,8 +37,11 @@ Based on the fact that port 80 (HTTP) is active, indicating the presence of a fu
 Let's do a quick check of the source code and search for hidden directories with dirb and nikto.
 
 !["3.png"](files/3.png)
+
 !["4.png"](files/4.png)
+
 !["6.png"](files/6.png)
+
 !["5.png"](files/5.png)
 
 So, we found an username, maybe a password and an admin login page, so let's try.
