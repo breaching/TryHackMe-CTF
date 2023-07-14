@@ -4,7 +4,7 @@
 
 
 
-<img src="../img/db.png" alt="TryHackMe Logo" width="300">
+<img src="../img/db.png" alt="TryHackMe Logo" width="150">
 
 ---
 
