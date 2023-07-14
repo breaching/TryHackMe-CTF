@@ -26,9 +26,8 @@ Compromise a Joomla CMS account via SQLi, practise cracking hashes and escalate 
  
 Nmap reveals 3 open ports on the server:
 
-```
-nmap -sV -sC 10.10.172.82 -Pn
-```
+`nmap -sV -sC 10.10.172.82 -Pn`
+
 !["1.png"](files/1.png)
 
 Based on the fact that port 80 (HTTP) is active, indicating the presence of a functioning web server, when we access the URL ```http://10.10.172.82``` we are presented with an article claiming that SpiderMan is involved in a bank robbery.
