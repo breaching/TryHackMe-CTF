@@ -2,7 +2,11 @@
 
 # Daily Bugle Writeup
 
-<img src="../img/thm.png" alt="TryHackMe Logo" width="400">
+
+
+<img src="../img/db.png" alt="TryHackMe Logo" width="300">
+
+---
 
 | Machine Name | Room URL | Difficulty |
 | :--: | :--: | :--: |
