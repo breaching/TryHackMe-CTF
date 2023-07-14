@@ -2,11 +2,9 @@
 
 # Daily Bugle Writeup
 
-<img src="img/db.png" alt="Daily Bugle Logo" width="400">
-
 | Room | Machine Name | Room URL | Difficulty |
 | :--: | :--: | :--: | :--: |
-| <img src="img/db.png" alt="Logo 1" width="100"> | Daily Bugle | <a href="https://example.com/text1">Room Link</a> | <img src="img/red.png" alt="Logo 1" width="30">
+| <img src="../img/db.png" alt="Logo 1" width="100"> | Daily Bugle | <a href="https://example.com/text1">Room Link</a> | <img src="../img/red.png" alt="Logo 1" width="30">
 
 
 ---
