@@ -82,11 +82,10 @@ Once logged in, visit `Extensions > Templates > Templates` and select `Beez3`:
 
 !["7.png"](files/7.png)
 
-Edit `index.php` and replace the content with a PHP reverse shell, I'm using [Php-reverse-shell.php from pentest money](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php ), set a listener `nc -nlvp 1234`, then click on `Save`, and `Template Preview`
+Edit `index.php` and replace the content with a PHP reverse shell, I'm using [Php-reverse-shell.php from pentest money](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php ), set a listener `nc -nlvp 1234`, then click on `Save`, and `Template Preview`, you have your reverse shell.
 
 !["8.png"](files/8.png)
 
-Now browse http://10.10.233.69/templates/beez3/index.php and you should get a reverse shell.
 
 First thing on the server was to list the homes, find users (`jjameson` is the only user in `/home`), and try to find `user.txt` (common name for user flag). No luck.
 
