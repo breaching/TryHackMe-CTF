@@ -4,7 +4,7 @@
 
 | Room | Machine Name | Room URL | Difficulty |
 | :--: | :--: | :--: | :--: |
-| <img src="../img/db.png" alt="Logo 1" width="100"> | Daily Bugle | <a href="https://example.com/text1](https://tryhackme.com/room/dailybugle">https://tryhackme.com/room/dailybugle)</a> | <img src="../img/red.png" alt="Logo 1" width="30">
+| <img src="../img/db.png" alt="Logo 1" width="100"> | <b>Daily Bugle</b> | <a href="https://example.com/text1](https://tryhackme.com/room/dailybugle">https://tryhackme.com/room/dailybugle</a> | <img src="../img/red.png" alt="Logo 1" width="30">
 
 
 ---
