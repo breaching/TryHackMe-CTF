@@ -24,7 +24,6 @@ Compromise a Joomla CMS account via SQLi, practise cracking hashes and escalate 
 
 ## #1.1 - Access the web server, who robbed the bank?
  
-Nmap reveals 3 open ports on the server:
 
 `nmap -sV -sC 10.10.172.82 -Pn`
 
