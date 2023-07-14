@@ -12,9 +12,6 @@
 | :--: | :--: | :--: |
 | <b>Daily Bugle</b> | <a href="https://tryhackme.com/room/dailybugle">https://tryhackme.com/room/dailybugle</a> | <img src="../img/red.png" alt="Logo 1" width="30">
 
-
----
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/670.png" alt="TryHackMe">
 
 ---
